@@ -1,26 +1,26 @@
-//go get github.com/gorilla/mux
-//go get github.com/mongodb/mongo-go-driver
-//https://www.youtube.com/watch?v=oW7PMHEYiSk&list=WL&index=12
-//Developing a RESTful API with Golang and a MongoDB NoSQL Database
+// go get github.com/gorilla/mux
+// go get github.com/mongodb/mongo-go-driver
+// https://www.youtube.com/watch?v=oW7PMHEYiSk&list=WL&index=12
+// Developing a RESTful API with Golang and a MongoDB NoSQL Database
 
-//Other project is
+// Other project is
 //
-//https://github.com/qiangxue/go-rest-api
-//Youtube mongodb with golang & rest, & postman
-//https://www.youtube.com/watch?v=oW7PMHEYiSk&list=WL&index=14
-//postman tutorial
-//https://www.guru99.com/postman-tutorial.html#4
+// https://github.com/qiangxue/go-rest-api
+// Youtube mongodb with golang & rest, & postman
+// https://www.youtube.com/watch?v=oW7PMHEYiSk&list=WL&index=14
+// postman tutorial
+// https://www.guru99.com/postman-tutorial.html#4
 
-//postman
-//https://martian-eclipse-414323.postman.co/workspace/myworkspace~30b3ac36-98d0-4de1-bb06-1e0aca36cadf/request/create?requestId=2c06b2c5-d6ca-472b-ae57-c0d690d98ee5
+// postman
+// https://martian-eclipse-414323.postman.co/workspace/myworkspace~30b3ac36-98d0-4de1-bb06-1e0aca36cadf/request/create?requestId=2c06b2c5-d6ca-472b-ae57-c0d690d98ee5
 
-//docker & kubernets https://www.youtube.com/channel/UCHN0KlJD8pePI83VuH_d8sw
-//running docerized app with cloud (aws, azure, gcp)
+// docker & kubernets https://www.youtube.com/channel/UCHN0KlJD8pePI83VuH_d8sw
+// running docerized app with cloud (aws, azure, gcp)
 
-//http://localhost:12345/people
-//http://localhost:12345/people
+// http://localhost:12345/people
+// http://localhost:12345/people
 /*
-//POST
+// POST
 http://localhost:12345/person
 {
     "firstname":"pratik",
