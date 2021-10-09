@@ -1,7 +1,8 @@
-module mongodb-go
+module github.com/iamengg/mongodb-go
 
-go 1.17
+go 1.13
 
-require go.mongodb.org/mongo-driver v1.7.3
-
-require github.com/gorilla/mux v1.8.0 // indirect
+require (
+	github.com/gorilla/mux v1.8.0
+	go.mongodb.org/mongo-driver v1.7.3
+)
